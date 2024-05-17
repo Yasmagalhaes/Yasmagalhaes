@@ -2,7 +2,7 @@
 
 Meu nome é Yasmim Magalhães 
 
--Estou estudando na Alura
+-Estou estudando na [Alura](h
 -Estou me desenvolvendo na linguagem javaScript
 -Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
